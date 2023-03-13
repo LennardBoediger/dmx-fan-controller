@@ -3,7 +3,9 @@ Speed controller for two old industrial fans.
 
 https://user-images.githubusercontent.com/11893651/213900107-9a194785-94d3-4e1d-9f15-b6ec5db4715c.mov
 
-The final installation will use two fans, a powerful fog machine and a stroboscope to create a neat effect.
+<br>
+The final installation will use two fans, a powerful fog machine and a stroboscope to create a neat effect.<br>
+
 ## Documentation 
 The Fans are powerd by three-phase alternating current and come with an 0-10V control line. The lowest possible speed setting during runtime is 1.6V but 2.6V is needed to start them.
 
