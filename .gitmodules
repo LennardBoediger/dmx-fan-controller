@@ -1,0 +1,6 @@
+[submodule "software/lib/ArduinoRS485"]
+	path = software/lib/ArduinoRS485
+	url = git@github.com:arduino-libraries/ArduinoRS485.git
+[submodule "software/lib/DMXSerial"]
+	path = software/lib/DMXSerial
+	url = git@github.com:mathertel/DMXSerial.git
