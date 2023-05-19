@@ -9573,7 +9573,7 @@
   (gr_text "GND" (at 153.7 71) (layer "B.SilkS") (tstamp 86d19149-e252-4aa1-9174-a8cf8e77f5d4)
     (effects (font (size 1 1) (thickness 0.15)) (justify left mirror))
   )
-  (gr_text "DMX FAN CONTROLLER Rev: v1" (at 147.2 30) (layer "B.SilkS") (tstamp 94ada412-f9ef-4e7b-9d13-6a30dad42a65)
+  (gr_text "DMX FAN CONTROLLER Rev: v2" (at 147.2 30) (layer "B.SilkS") (tstamp 94ada412-f9ef-4e7b-9d13-6a30dad42a65)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify left mirror))
   )
   (gr_text "FUNC" (at 153.33 41.57) (layer "B.SilkS") (tstamp bee304a3-0541-4a17-a31c-f5ddbd41f3d9)

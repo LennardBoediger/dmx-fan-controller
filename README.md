@@ -16,7 +16,7 @@ The DMX channel can be selected using a DIP switch.<br>
 Additionally there is an manual control override, which allows the fan to be set to a constant speed.<br>
 Mounting holes are M3.
 #### Schematic:
-![Schematic](https://github.com/LennardBoediger/dmx-fan-controller/blob/main/hardware/fan-controller-pcb/fan-controller-pcb.svg)
+![Schematic-v2](https://github.com/LennardBoediger/dmx-fan-controller/blob/main/hardware/fan-controller-pcb/fan-controller-pcb.svg)
 
 
 #### PCB-Rendering:
