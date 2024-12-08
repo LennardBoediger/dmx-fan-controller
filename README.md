@@ -18,9 +18,5 @@ Mounting holes are M3.
 #### Schematic:
 ![Schematic-v2](https://github.com/LennardBoediger/dmx-fan-controller/blob/main/hardware/fan-controller-pcb/fan-controller-pcb.svg)
 
-
-#### PCB-Rendering:
-![Rendering](https://github.com/LennardBoediger/dmx-fan-controller/blob/main/.img/fan-controller-pcb-rendering.jpg)
-
 ## Safety instructions
 Please don't die when using large spinning fan blades that are powered by three-phase current.
