@@ -7,10 +7,10 @@ https://user-images.githubusercontent.com/11893651/213900107-9a194785-94d3-4e1d-
 The final installation will use two fans, a powerful fog machine and a stroboscope to create a neat effect.<br>
 
 ## Documentation 
-The Fans are powerd by three-phase alternating current and come with an 0-10V control line. The lowest possible speed setting during runtime is 1.6V but 2.6V is needed to start them.
+The Fans are powerd by three-phase alternating current and come with an 0-10V control line. The lowest possible speed setting during runtime is 1.6V but 2.6V is required to start the motors from standstill
 
 The controller board is based on the Arduino Nano (ATmega328).<br>
-For the Fan Control line a 0-5V 10Bit DAC is used. The output voltage is then aplified, so that we end up with an 0-10V 10Bit DAC.<br>
+For the Fan Control line a 0-5V 10Bit DAC is used. The output voltage is then amplified, so that we end up with an 0-10V 10Bit DAC.<br>
 To communicate over the DMX-Bus, the board is equipped with an MAX485E RS-485 transceiver.<br>
 The DMX channel can be selected using a DIP switch.<br>
 Additionally there is an manual control override, which allows the fan to be set to a constant speed.<br>
